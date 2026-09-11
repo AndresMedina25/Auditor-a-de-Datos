@@ -1,2 +1,2 @@
 # Auditor-a-de-Datos
-Auditorio de Datos utilizando Python
+Auditoria de Datos utilizando Python
